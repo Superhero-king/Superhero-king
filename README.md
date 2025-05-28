@@ -43,6 +43,78 @@ Here are some ideas to get you started:
 ## I’m Time
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%204%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 11 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                9 commits           █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌃 Evening                16 commits          ███████████████░░░░░░░░░░   61.54 % 
+🌙 Night                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   12 commits          ████████████░░░░░░░░░░░░░   46.15 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                4 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 6 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Go                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Superhero-king/Superhero-king/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/05/2025 16:17:56 UTC
 <!--END_SECTION:waka-->
 
 
