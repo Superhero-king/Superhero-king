@@ -43,15 +43,13 @@ Here are some ideas to get you started:
 ## I’m Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,16 +84,17 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               11 mins             █████████████████░░░░░░░░   69.37 % 
+Other                    5 mins              ████████░░░░░░░░░░░░░░░░░   30.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+react-three-globe-visuali16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +113,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Superhero-king/Superhero-king/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 16:17:56 UTC
+ Last Updated on 28/05/2025 18:47:19 UTC
 <!--END_SECTION:waka-->
 
 
