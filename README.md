@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 > Everything will go smoothly
 > 
 
+**Always believe that beautiful things are about to happen**
+
 <!--
 **Superhero-king/Superhero-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
