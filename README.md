@@ -11,15 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <king473378347@gmail.com>
 - ⚡ Fun fact: starting over, this will be a great start!
 
-> Everything will get better
->
-> Everything will be fine
-> 
-> Everything will go smoothly
-> 
-
-**Always believe that beautiful things are about to happen**
-
 <!--
 **Superhero-king/Superhero-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,13 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Contributions
-
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superhero-king&show_icons=true&locale=cn&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Superhero-king&show_icons=true&locale=cn&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I’m Time
 
@@ -118,6 +102,22 @@ HTML                     1 repo              ████░░░░░░░�
  Last Updated on 28/05/2025 18:47:19 UTC
 <!--END_SECTION:waka-->
 
+## Contributions
+
+[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Superhero-king&show_icons=true&locale=cn&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Superhero-king&show_icons=true&locale=cn&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SmallYo&show_icons=true&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+> Everything will get better
+>
+> Everything will be fine
+> 
+> Everything will go smoothly
+> 
+
+**Always believe that beautiful things are about to happen**
