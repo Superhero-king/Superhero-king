@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I’m Time
+## I’m
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2020%20mins-blue)
