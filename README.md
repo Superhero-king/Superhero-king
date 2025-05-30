@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ## I’m
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,17 +70,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 mins             █████████████████░░░░░░░░   69.37 % 
-Other                    5 mins              ████████░░░░░░░░░░░░░░░░░   30.63 % 
+Go                       52 mins             ███████████░░░░░░░░░░░░░░   43.11 % 
+YAML                     33 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Other                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react-three-globe-visuali16 mins             █████████████████████████   100.00 % 
+leaf_chat_golang         1 hr 43 mins        █████████████████████░░░░   85.40 % 
+react-three-globe-visuali17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -99,7 +103,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Superhero-king/Superhero-king/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 18:48:29 UTC
+ Last Updated on 30/05/2025 18:47:37 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
