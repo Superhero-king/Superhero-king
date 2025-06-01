@@ -29,15 +29,13 @@ Here are some ideas to get you started:
 ## I’m
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
- > 
-> 🏆 16 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +104,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Superhero-king/Superhero-king/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:44:41 UTC
+ Last Updated on 01/06/2025 18:45:19 UTC
 <!--END_SECTION:waka-->
 
 ## Contributions
